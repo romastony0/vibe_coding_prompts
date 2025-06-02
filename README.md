@@ -1,5 +1,3 @@
-# vibe_coding_prompts
-Prompts which is used to create portfolio in Vibe Coding Flow
 # Vibe Coding Prompts
 Prompts which are used to create portfolio in Vibe Coding Flow
 
