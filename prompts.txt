@@ -1,0 +1,41 @@
+# Portfolio Development Prompts
+
+## Project Structure & Fundamentals
+
+I need you to understand my portfolio website structure and prepare the foundation without generating any code yet. This portfolio will have a modular three-file architecture where I maintain index.html for main structure, index.css for styling with Tailwind CSS, and index.js for interactive functionality. The portfolio will contain the following sections in order: Hero Section as the landing area, About Me Section with professional summary and skills, Experience Section showcasing work history, Project Showcase Section displaying my development work, Skills and Technologies Section with animated proficiency displays, and Contact Section for communication. Use Tailwind CSS as the primary styling framework for responsive design and implement advanced animations using JavaScript libraries like GSAP, AOS, or Three.js throughout all sections. The HTML head section should include comprehensive SEO-optimized meta tags and title, Tailwind CSS CDN integration, 3D animation libraries including Three.js and GSAP, various animation and interaction libraries, and performance optimization meta tags. For now, just acknowledge this structure and wait for my individual section requests where you will provide complete, production-ready code blocks that can be directly integrated into the three main files without requiring separate file creation for individual components.
+
+---
+
+## Hero Section
+
+Please design an impactful hero section that serves as my portfolio's visual centerpiece. I want a professional headline with animated typing effect, a compelling tagline showcasing my expertise, call-to-action buttons with hover animations, and a background with subtle 3D elements or particle effects. Include smooth scroll indicators and ensure responsive design for all screen sizes. For the technical implementation, use CSS animations for text reveals and transitions, implement JavaScript libraries for dynamic background effects, ensure fast loading times with optimized animations, and include accessibility features for screen readers.
+
+---
+
+## About Me Section
+
+Create a comprehensive professional summary section based on my resume content. I need a professional summary that extracts and presents my career highlights, expertise areas, and professional goals from my resume data. For skills visualization, implement 3D rotating skill spheres or cubes displaying my technical competencies, animated progress bars with percentage indicators, and interactive hover effects revealing skill details. The education timeline should be a visual timeline showcasing my academic achievements with icons representing my degree types including both Bachelor's and Master's degrees, institution details with animated reveals, and achievement highlights with academic projects. Design this with a clean, professional layout using balanced white space, smooth animations that enhance user engagement, and mobile-responsive design with touch-friendly interactions.
+
+---
+
+## Experience Section
+
+Develop an interactive professional experience showcase highlighting my career progression. Create an interactive timeline with a vertical layout featuring company milestones, clickable nodes revealing role details, and smooth transitions between experience entries. Design company showcases with company logos that have hover effects and brief descriptions, role progression visualization, and technology stack used in each position. Display my key achievements specifically from my PHP Intern and PHP Developer roles, including specific accomplishments, quantified results and impact metrics, and project highlights with technical contributions. Use 3D card layouts with flip animations, color-coded timeline indicating different roles, and interactive elements that respond to user engagement for the visual design.
+
+---
+
+## Project Showcase Section
+
+Create an engaging project gallery featuring my key development work including Management Agency System, Callback Management System, Cashew Connect Platform, and Legacy Mobile Tutor Projects. Implement 3D flip cards with interactive project cards featuring front and back reveal animations. For image handling, use placeholder project1.jpg for all projects initially, implement responsive image containers with auto-adjustment capabilities, and maintain consistent aspect ratios across different image sizes. Display the technology stack with icon representations for each technology used, hover effects revealing technology details, and animated technology badges. Integrate modal functionality with View Details buttons triggering modal overlays, comprehensive project descriptions within modals, image galleries and technical implementation details, and links to live demos and source code repositories. Ensure smooth transitions and loading states, keyboard navigation support, and mobile-optimized touch interactions for optimal user experience.
+
+---
+
+## Skills and Technologies Section
+
+Design an animated skills assessment and technology proficiency display using animated skill bars with progress bars featuring smooth fill animations, radial progress indicators with circular progress charts showing proficiency levels, or 3D skill spheres with interactive elements representing different skill areas. Organize the content by categorizing programming languages like PHP, JavaScript, HTML, and CSS, databases including MySQL and database management tools, frameworks and tools such as Yii2, React, Node.js, and development tools, plus additional technologies like version control and deployment tools. Include interactive features with technology icons that have hover animations and tooltips, skill level indicators with percentage displays, smooth reveal animations as users scroll, and category filtering with search functionality.
+
+---
+
+## Contact Section
+
+Implement a professional contact interface with multiple communication channels. Create a contact form with input fields for name, email, subject, and message with proper validation, real-time validation feedback and success states, form submission preparation for backend email processing, and proper labeling with keyboard navigation support for accessibility. Include additional contact information with my professional address in clearly formatted location details and social media integration featuring LinkedIn profile link with professional icon, GitHub repository showcase, Twitter or X professional profile, and other relevant professional social platforms. Design this with clean, minimalist form design incorporating subtle animations, interactive social media icons with hover effects, professional color scheme matching the overall portfolio theme, and mobile-responsive layout ensuring usability across all devices. Create UI components only since backend email processing will be implemented separately, focusing on user-friendly interface design and proper form structure for easy backend integration.
